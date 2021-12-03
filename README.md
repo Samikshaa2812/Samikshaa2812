@@ -1,4 +1,4 @@
-### Samikshaa2812
+### Samikshaa2812.github.io
 
 <!--
 **Samikshaa2812/Samikshaa2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
